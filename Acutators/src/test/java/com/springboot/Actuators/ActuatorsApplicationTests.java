@@ -1,10 +1,10 @@
-package com.springboot.Acutators;
+package com.springboot.Actuators;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AcutatorsApplicationTests {
+class ActuatorsApplicationTests {
 
 	@Test
 	void contextLoads() {

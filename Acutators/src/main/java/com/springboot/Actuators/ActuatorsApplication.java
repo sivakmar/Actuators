@@ -1,13 +1,13 @@
-package com.springboot.Acutators;
+package com.springboot.Actuators;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AcutatorsApplication {
+public class ActuatorsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AcutatorsApplication.class, args);
+		SpringApplication.run(ActuatorsApplication.class, args);
 	}
 
 }
